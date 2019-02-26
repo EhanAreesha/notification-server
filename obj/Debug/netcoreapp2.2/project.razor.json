@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Babu Soft\\2nd Assignment\\4th Assignment\\notification-server\\notification-server.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
